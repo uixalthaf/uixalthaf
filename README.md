@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Althaf 👋
 
-<!--
-**uixalthaf/uixalthaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with 3.5+ years of experience building responsive, accessible web interfaces with React.js and TypeScript. Currently at Samsung Electro-Mechanics, Bengaluru.
 
-Here are some ideas to get you started:
+My day job work is in private repositories, so this profile shows my personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+React.js · TypeScript · JavaScript · Next.js · Redux · Tailwind CSS
+
+## Projects
+- **mystic-academy**: full-stack student management platform (React, TypeScript, Node.js, Express, PostgreSQL)
+- **learn-korean-with-graz**: Korean tutoring platform (Next.js, TypeScript, Tailwind CSS)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/althafshaik-dev/) · [Portfolio](https://uixalthaf.github.io/portfolio-minimalism/)
